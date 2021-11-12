@@ -1,2 +1,1 @@
-# tilak
- tilak repo
+Thia is new function project which need to be used for function work.
